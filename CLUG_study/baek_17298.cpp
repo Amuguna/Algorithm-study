@@ -1,5 +1,5 @@
-//¿ÀÅ«¼ö
-
+//Â¿Ã€Ã…Â«Â¼Ã¶
+//https://www.acmicpc.net/problem/17298
 #include <iostream>
 #include <stack>
 using namespace std;
@@ -7,7 +7,7 @@ int N;
 int ans[1000001];
 int arr[1000001];
 stack<int> st;
-//ÀÔ·Â ÀüÃ³¸®
+//Ã€Ã”Â·Ã‚ Ã€Ã¼ÃƒÂ³Â¸Â®
 void input() {
 	cin >> N;
 	int tmp;

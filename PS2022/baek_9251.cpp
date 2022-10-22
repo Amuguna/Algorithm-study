@@ -16,8 +16,6 @@ void solution() {
 	}
 	cout << dp[i - 1][j - 1];
 }
-//첫 문자 위치 찾기
-//두 번째 위치 찾기 처음 선택 위치 이후인지 확인
 int main() {
 	input();
 	solution();
